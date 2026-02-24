@@ -7,7 +7,7 @@ library(tidyverse)
 library(ggridges)
 library(RColorBrewer)
 
-DATA_PATH <- "Health_conditions_among_children_under_age_18__by_selected_characteristics__United_States.csv"
+DATA_PATH <- "https://raw.githubusercontent.com/yihan2588/Stat436Dataviz_Asthmadata_app/refs/heads/main/Health_conditions_among_children_under_age_18__by_selected_characteristics__United_States.csv?token=GHSAT0AAAAAADOG4NLXYGQDHMCHPWNBKSVG2M525BA"
 
 # Fix panel names
 g_condition <- function(panel) {
