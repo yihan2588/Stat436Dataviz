@@ -1,0 +1,10 @@
+name: rating-explorer
+title: Interactive Rating Explorer
+username: yihan2588
+account: yihan2588
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16997088
+bundleId: 11771887
+url: https://yihan2588.shinyapps.io/rating-explorer/
+version: 1
